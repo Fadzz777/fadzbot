@@ -3,7 +3,7 @@ process.on('unhandledRejection', console.error)
 /*
  * Recode By Fadzz-Xd @Naze
  * Follow https://github.com/sychyy
- * Whatsapp : https://wa.me/6282210739170
+ * Whatsapp :https://wa.me/6282210739170
  */
 require('./settings');
 require('./setown');
