@@ -1,9 +1,9 @@
 process.on('uncaughtException', console.error)
 process.on('unhandledRejection', console.error)
 /*
- * Recode By Fadzz-Xd  @Naze
+ * Recode By Fadzz-Xd @Naze
  * Follow https://github.com/sychyy
- * Whatsapp : https://wa.me/6287862997267
+ * Whatsapp : https://wa.me/6282210739170
  */
 require('./settings');
 require('./setown');
